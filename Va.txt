@@ -1,8 +1,5 @@
 Haciendo pruebas del comando git fetch y como interactua con el comando git pull.
 Agregando lineas a ver que pasa.
-<<<<<<< HEAD
 Esperaba algo mas espectacular, esta medio meh este comando.
-=======
 
 Linea N4.
->>>>>>> 361dd4e1aa495478971206ca86dfe1a3ad603da7
